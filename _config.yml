@@ -1,7 +1,7 @@
 # Site settings
 title: Jemma's Blog
 SEOTitle: 珍玛的博客 | JM Blog
-header-img: img/post-bg-desk.jpg
+header-img: /JemmaTang.github.io/img/bg1.jpeg
 email: jemmattn@gmail.com
 description: "Whenever you are in a position to help someone. Just do it and be glad."
 keyword: "Jemma, Jemma's Blog, BLog, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/JemmaTang/JemmaTang.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Dream without action is hallucination"
-sidebar-avatar: /JemmaTang.github.io/img/WechatIMG438.jpeg   # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /JemmaTang.github.io/img/avatar.jpeg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
