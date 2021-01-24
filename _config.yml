@@ -12,7 +12,7 @@ github_repo: "https://github.com/JemmaTang/JemmaTang.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Dream without action is hallucination"
-sidebar-avatar: /JemmaTang.github.io/img/avatar.jpeg   # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /JemmaTang.github.io/img/hahaha.jpeg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
