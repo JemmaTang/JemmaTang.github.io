@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      Model Selection
-subtitle:   OOS performance and cross validation
-date:       2019-10-09
+title:      My first post
+subtitle:   Hello World, Hello Blog
+date:       2021-01-24
 author:     Jemma
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/Switerland.jpeg
 catalog: true
 tags:
-    - OOS
-    - Cross Validation
+    - life
+    - ios
 ---
 
 # Hey
