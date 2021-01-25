@@ -12,6 +12,6 @@ tags:
 ---
 
 # Hey
-> 这是我的第一篇博客。
+> This is my first post.
 
-进入你的博客主页，新的文章将会出现在你的主页上.
+Hello World. Welcome to Jemma's github coding wonderland.
