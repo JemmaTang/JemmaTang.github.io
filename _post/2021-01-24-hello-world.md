@@ -5,7 +5,7 @@ title:      My First Post
 subtitle:   Hello World, Hello Blog 
 date:       2021-01-24 				
 author:     Jemma 						
-header-img: JemmaTang.github.io/img/Switerland.jpeg	
+header-img: img/Switerland.jpeg	
 catalog: true 						
 tags:								
     - life    
