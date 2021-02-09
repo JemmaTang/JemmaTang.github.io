@@ -4,7 +4,7 @@ title:      Customer Segmentation to Increase Marketing Efficiency
 subtitle:   A multi-class clustering analysis
 date:       2021-02-10
 author:     Jemma Tang
-header-img: img/petFinderPic2.jpg
+header-img: JemmaTang.github.io/img/shopify.png
 catalog: true
 tags:
     - Customer Segmentation
