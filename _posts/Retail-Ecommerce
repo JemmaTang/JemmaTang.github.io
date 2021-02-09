@@ -1,16 +1,12 @@
 ---
 layout:     post
-title:      Retail Fashion Ecommerce
-subtitle:   Customer Analysis
-date:       2021-02-08
-author:     Jemma Tang
-header-img: JemmaTang.github.io/img/pngkit_e-commerce-png_7749257.png
+title:      Model Selection
+subtitle:   OOS performance and cross validation
+date:       2019-10-09
+author:     Aly Hu
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Python
-    - Cohort Analysis
-    - Customer Segmentation
-    - Churn Rate
-    - Customer Lifetime Value
-    
+    - OOS
+    - Cross Validation
 ---
