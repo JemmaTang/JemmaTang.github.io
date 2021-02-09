@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Retail: Fashion Ecommerce
+title:      Retail Fashion Ecommerce
 subtitle:   Customer Analysis
 date:       2021-02-08
 author:     Jemma Tang
